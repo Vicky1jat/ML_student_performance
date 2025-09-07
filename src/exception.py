@@ -1,5 +1,5 @@
 import sys ## provide way to manipulate different parts of runtime environment
-import logging
+from src.logger import logging
 
 def error_message_detail(error,error_detail:sys):
     _,_,exc_tb=error_detail.exc_info()## give info about which file and line the mssg has occured
@@ -20,5 +20,5 @@ class CustomException(Exception):
         return self.error_message
     
 
-
+ 
     

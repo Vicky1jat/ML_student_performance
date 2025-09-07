@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn
--e . ## used to automatically call setup.py when requirements are called
+matplotlib
+scikit-learn 
+catboost
+xgboost
+##-e . ## used to automatically call setup.py when requirements are called
