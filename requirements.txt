@@ -5,4 +5,5 @@ matplotlib
 scikit-learn 
 catboost
 xgboost
+dill
 ##-e . ## used to automatically call setup.py when requirements are called
