@@ -14,7 +14,7 @@
    Here’s a screenshot of the locally deployed Flask app:
    ![Deployed App](./deployedimage.png)    
 
-📂 Project Structure
+##📂 Project Structure
             ML_STUDENT_PERFORMANCE/
       │── artifacts/               # Saved datasets, models, preprocessors
       │   ├── data.csv
@@ -55,7 +55,7 @@
       │── .gitignore               # Ignore unnecessary files
 
 
-🔑 Key Steps Implemented
+##🔑 Key Steps Implemented
 
    ✔ Project Setup & Deployment with GitHub
    ✔ Logging & Exception Handling
@@ -100,4 +100,5 @@
   👨‍💻 Author
    Developed by Vicky Jat
    🔗 LinkedIn | GitHub
+
 
