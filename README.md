@@ -81,7 +81,7 @@
   3️⃣ Run this code
       python src/components/data_ingestion.py
 
- Now open your browser and go to 👉 http://127.0.0.1:5000/predictdata
+ Now open your browser and go to 👉[website](http://127.0.0.1:5000/predictdata) 
 ```
 ```
 📊 Tech Stack
@@ -101,6 +101,7 @@
   👨‍💻 Author
    Developed by Vicky Jat
   🔗 [LinkedIn](https://www.linkedin.com/in/vicky-jat-997420280) | [GitHub](https://github.com/Vicky1jat)
+
 
 
 
