@@ -9,7 +9,6 @@
   The project is structured following best practices for modular ML development, with components for 
   ingestion, transformation, training, prediction, logging, exception handling, and deployment.
 
-📸 Screenshots:-
   ## 🚀 Deployed Application (Local)
    Here’s a screenshot of the locally deployed Flask app:
    ![Deployed App](./deployedimage.png)    
@@ -54,7 +53,7 @@
       │── README.md                # Project documentation
       │── .gitignore               # Ignore unnecessary files
 ```
-
+```
 ##🔑 Key Steps Implemented
 
    ✔ Project Setup & Deployment with GitHub
@@ -66,7 +65,8 @@
    ✔ Hyperparameter Tuning
    ✔ Prediction Pipeline (for real-time predictions)
    ✔ Local Deployment with Flask (HTML frontend + CSS styling)
-
+```
+```
 🚀 How to Run the Project
   1️⃣ Clone the Repository
      git clone https://github.com/Vicky1jat/ML_student_performance/edit/main/README.md
@@ -82,7 +82,8 @@
       python src/components/data_ingestion.py
 
  Now open your browser and go to 👉 http://127.0.0.1:5000/predictdata
-
+```
+```
 📊 Tech Stack
 
   ##Programming Language: Python 3.x
@@ -95,11 +96,12 @@
      ->Jupyter Notebook
      ->Git/GitHub (version control)
      ->Virtualenv (dependency management)
-
+```
   
   👨‍💻 Author
    Developed by Vicky Jat
-   🔗 LinkedIn | GitHub
+  🔗 [LinkedIn](https://www.linkedin.com/in/vicky-jat-997420280) | [GitHub](https://github.com/Vicky1jat)
+
 
 
 
