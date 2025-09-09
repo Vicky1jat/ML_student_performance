@@ -15,57 +15,57 @@
    ![Deployed App](./deployedimage.png)    
 
 📂 Project Structure
-  ML_STUDENT_PERFORMANCE/
-│── artifacts/               # Saved datasets, models, preprocessors
-│   ├── data.csv
-│   ├── train.csv
-│   ├── test.csv
-│   ├── model.pkl
-│   └── preprocessor.pkl
-│
-│── notebook/                # Jupyter notebooks for EDA & Model Training
-│   ├── 1. EDA STUDENT PERFORMANCE.ipynb
-│   └── 2. MODEL TRAINING.ipynb
-│
-│── src/                     # Source code for ML pipeline
-│   ├── components/          # Core ML steps
-│   │   ├── data_ingestion.py
-│   │   ├── data_transformation.py
-│   │   └── model_trainer.py
-│   │
-│   ├── pipeline/            # End-to-end training & prediction pipelines
-│   │   ├── train_pipeline.py
-│   │   └── predict_pipeline.py
-│   │
-│   ├── utils.py             # Utility functions
-│   ├── logger.py            # Logging setup
-│   └── exception.py         # Custom exception handling
-│
-│── static/                  # CSS and static files
-│   └── styles.css
-│
-│── templates/               # Frontend HTML templates
-│   ├── index.html
-│   └── home.html
-│
-│── app.py                   # Flask application entry point
-│── requirements.txt         # Project dependencies
-│── setup.py                 # For packaging and installation
-│── README.md                # Project documentation
-│── .gitignore               # Ignore unnecessary files
+            ML_STUDENT_PERFORMANCE/
+      │── artifacts/               # Saved datasets, models, preprocessors
+      │   ├── data.csv
+      │   ├── train.csv
+      │   ├── test.csv
+      │   ├── model.pkl
+      │   └── preprocessor.pkl
+      │
+      │── notebook/                # Jupyter notebooks for EDA & Model Training
+      │   ├── 1. EDA STUDENT PERFORMANCE.ipynb
+      │   └── 2. MODEL TRAINING.ipynb
+      │
+      │── src/                     # Source code for ML pipeline
+      │   ├── components/          # Core ML steps
+      │   │   ├── data_ingestion.py
+      │   │   ├── data_transformation.py
+      │   │   └── model_trainer.py
+      │   │
+      │   ├── pipeline/            # End-to-end training & prediction pipelines
+      │   │   ├── train_pipeline.py
+      │   │   └── predict_pipeline.py
+      │   │
+      │   ├── utils.py             # Utility functions
+      │   ├── logger.py            # Logging setup
+      │   └── exception.py         # Custom exception handling
+      │
+      │── static/                  # CSS and static files
+      │   └── styles.css
+      │
+      │── templates/               # Frontend HTML templates
+      │   ├── index.html
+      │   └── home.html
+      │
+      │── app.py                   # Flask application entry point
+      │── requirements.txt         # Project dependencies
+      │── setup.py                 # For packaging and installation
+      │── README.md                # Project documentation
+      │── .gitignore               # Ignore unnecessary files
 
 
 🔑 Key Steps Implemented
 
-✔ Project Setup & Deployment with GitHub
-✔ Logging & Exception Handling
-✔ Exploratory Data Analysis (EDA)
-✔ Data Ingestion (loading raw → train/test split)
-✔ Data Transformation (encoding, scaling, pipelines)
-✔ Model Training & Evaluation
-✔ Hyperparameter Tuning
-✔ Prediction Pipeline (for real-time predictions)
-✔ Local Deployment with Flask (HTML frontend + CSS styling)
+   ✔ Project Setup & Deployment with GitHub
+   ✔ Logging & Exception Handling
+   ✔ Exploratory Data Analysis (EDA)
+   ✔ Data Ingestion (loading raw → train/test split)
+   ✔ Data Transformation (encoding, scaling, pipelines)
+   ✔ Model Training & Evaluation
+   ✔ Hyperparameter Tuning
+   ✔ Prediction Pipeline (for real-time predictions)
+   ✔ Local Deployment with Flask (HTML frontend + CSS styling)
 
 🚀 How to Run the Project
   1️⃣ Clone the Repository
@@ -81,7 +81,7 @@
   3️⃣ Run this code
       python src/components/data_ingestion.py
 
-  Now open your browser and go to 👉 http://127.0.0.1:5000/predictdata
+ Now open your browser and go to 👉 http://127.0.0.1:5000/predictdata
 
 📊 Tech Stack
 
@@ -100,3 +100,4 @@
   👨‍💻 Author
    Developed by Vicky Jat
    🔗 LinkedIn | GitHub
+
