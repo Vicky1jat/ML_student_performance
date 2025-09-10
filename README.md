@@ -1,4 +1,3 @@
-```
 🎓 Student Performance Prediction – End-to-End ML Project
    📌 Project Overview
 
@@ -13,7 +12,6 @@
   ## 🚀 Deployed Application (Local)
    Here’s a screenshot of the locally deployed Flask app:
    ![Deployed App](./deployedimage.png)    
-   ```
 ```
 ##📂 Project Structure
             ML_STUDENT_PERFORMANCE/
@@ -102,6 +100,7 @@
   👨‍💻 Author
    Developed by Vicky Jat
   🔗 [LinkedIn](https://www.linkedin.com/in/vicky-jat-997420280) | [GitHub](https://github.com/Vicky1jat)
+
 
 
 
